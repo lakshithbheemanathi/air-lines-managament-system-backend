@@ -1,0 +1,25 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Environment files
+.env
+.env.local
+*.env
+
+# Keep template
+!.env.example
+
+# Logs and runtime files
+*.log
+*.tmp
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Java class files
+*.class
